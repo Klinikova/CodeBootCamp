@@ -1,0 +1,24 @@
+body {
+	font-family: Ariel, Verdana, sans-serif;
+	background-color: palegoldenrod;
+}
+
+p {
+	color: saddlebrown;
+	padding: 10px;
+  font-size: 25px;
+}
+
+.pcolor {font-weight: bold;}
+
+h3 {
+	color: white;
+	background-color: saddlebrown;
+	padding: 15px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#mymsg {color: blue;}
+
+#myimage {float: right;}
